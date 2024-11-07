@@ -1,0 +1,35 @@
+/* Landing.css */
+.landing-container {
+    background-color: #000;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .landing-row {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .text-section {
+    padding: 20px;
+  }
+  
+  .highlight {
+    color: #ff8500; /* Adjust color to match your screenshot */
+  }
+  
+  .start-btn {
+    background-color: #ff8500;
+    color: #fff;
+    border: none;
+  }
+  
+  .image-section img {
+    max-width: 100%;
+    height: auto;
+  }
+  
